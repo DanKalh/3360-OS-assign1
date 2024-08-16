@@ -1,4 +1,4 @@
-Going to use all 3 grace days and a couple late. Sorry
+3360 Operating Systems assignment 1
 
 Removed the last line ("write" line) in the process file, just for simplicity, but there must still be a new line after (not sure why, but wouldn't work right without it)
 
